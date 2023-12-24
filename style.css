@@ -1,0 +1,45 @@
+.mmknavbar{
+    font-family: Arial, sans-serif;
+    font-weight: 500px;
+    font-style: normal;
+    font-size: 14px;
+}
+.nav-item:hover{
+    text-decoration: underline white;
+}
+#im:hover{
+        width: 23px;
+        height: 23px;
+    background-color: black;
+    border-radius: 100px;
+}
+/* div i:hover{
+    border-radius: 100px;
+    background-color: aqua;
+} */
+#am:hover{
+    background-color: #1FB6FC;
+    color: white;
+    border-radius: 5px 5px 5px 5px ;
+}
+#kl:hover:{
+    background-color:white ;
+    border-radius: 100px;
+}
+
+li a{
+    text-decoration: none;
+    
+}
+li a:hover {
+color: #1FB6FC;
+}
+
+
+
+
+
+div #ml:hover{
+    color: blueviolet;
+    
+}
